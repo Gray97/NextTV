@@ -1,6 +1,6 @@
 import path from "path";
 import { fileURLToPath } from "url";
-
+<script src="https://fastly.jsdelivr.net/gh/VideoTogether/VideoTogether@latest/release/extension.website.user.js"></script>
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
