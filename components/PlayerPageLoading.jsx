@@ -1,5 +1,5 @@
 "use client";
-
+<script src="https://fastly.jsdelivr.net/gh/VideoTogether/VideoTogether@latest/release/extension.website.user.js"></script>
 import { useState, useEffect } from "react";
 
 // 打字机消息列表（组件外部定义，避免重复创建）
