@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { usePlayer } from "@/hooks/usePlayer";
 import { useSettingsStore } from "@/store/useSettingsStore";
 import { createDanmakuLoaderDirect } from "@/lib/danmakuApi";
-
+<script src="https://fastly.jsdelivr.net/gh/VideoTogether/VideoTogether@latest/release/extension.website.user.js"></script>
 export function VideoPlayer({
   videoDetail,
   currentEpisodeIndex,
